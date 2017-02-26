@@ -1,0 +1,1 @@
+# weblogic-base-domain-10.3.6-Dockerfile
